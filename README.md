@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Stephen or smgacema
-- 👀 I’m interested in Django and Vue Web development
+- 👀 Interested in Django and Vue Web development
 - 🌱 I also design Wordpress websites
 
 <!---
